@@ -6,8 +6,6 @@ I built this project to automate small but important privacy habits like removin
 
 Instead of making multiple tools, i did make them into one simple script
 
-![Menu](screenshots/pic.png)
-
 
 ##  Features
 
@@ -33,6 +31,9 @@ cd opsec-toolkit
 ```bash
 pip install -r requirements.txt
 ```
+
+## Overview
+![Menu](screenshot/pic.png)
 
 # Limitations
 
