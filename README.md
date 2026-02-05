@@ -38,6 +38,7 @@ pip install -r requirements.txt
 # Limitations
 
 Shredding is not guaranteed on SSDs or copy-on-write filesystems
+
 DNS check is not a full leak test (no packet capture)
 Username checks may be blocked or rate limited
 Port scanner is basic TCP only
