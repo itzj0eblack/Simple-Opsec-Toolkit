@@ -2,17 +2,18 @@
 
 A lightweight command-line toolkit for everyday operational security tasks.
 
-I built this project to automate small but important privacy habits during pentesting, research, and daily use — like removing metadata, securely deleting sensitive files, checking DNS configuration, scanning local exposure, and doing quick username footprint checks.
+I built this project to automate small but important privacy habits like removing metadata, securely deleting sensitive files, checking DNS configuration, scanning local exposure, and doing quick username checks
 
-Instead of juggling multiple tools, everything is bundled into one simple Python script.
+Instead of making multiple tools, i did make them into one simple script
 
----
+![Menu](screenshots/pic.png)
+
 
 ##  Features
 
 - Remove metadata from images, PDFs and DOCX files
 - file shredder (it overwrite + delete)
-- DNS diagnostics (check which resolvers your system uses)
+- DNS diagnostics (check which resolvers ur system uses)
 - Username checker across common platforms
 - Local TCP port scanner
 - It Works offline (except username checks)
